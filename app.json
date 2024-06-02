@@ -11,17 +11,17 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/GOD-R4V4N/IDChatBot",
+  "repository": "https://github.com/KwsMusic/IDChatBot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": ""
+      "value": "23392712"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps.",
       "required": true,
-      "value": ""
+      "value": "7cb236b197b25c243fa83e7e0173d0e6"
     },
     "STRING_SESSION": {
       "description": "A Pyrogram v2 String session.",
@@ -31,12 +31,12 @@
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://BWFMUSIC:BWFMUSIC@cluster0.xwnup2l.mongodb.net/?retryWrites=true&w=majority"
     },
     "OWNER_ID": {
       "description": "User id chat bot control owner id.",
       "required": true,
-      "value": "6927241780"
+      "value": "5820831398"
     }
   }
 }
